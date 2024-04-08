@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @kevinpatto
-- 👀 I’m interested in ... goblins
-- 🌱 I’m currently learning ... goblins
-- 💞️ I’m looking to collaborate on ... goblins
-- 📫 How to reach me ... goblins
+Northwestern University edX boot camp graduate
 
 <!---
 kevinpatto/kevinpatto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
