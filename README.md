@@ -1,4 +1,4 @@
-Northwestern University edX boot camp graduate
+do not trust edX bootcamps, they are frauds
 
 <!---
 kevinpatto/kevinpatto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
