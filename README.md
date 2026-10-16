@@ -1,4 +1,4 @@
-i love my dog!! 🐕
+i love my dog!! 🐕 personal projects and schoolwork.
 
 <!---
 kevinpatto/kevinpatto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
