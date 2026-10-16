@@ -1,4 +1,4 @@
-do not trust edX bootcamps, they are frauds
+i love my dog!! 🐕
 
 <!---
 kevinpatto/kevinpatto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
